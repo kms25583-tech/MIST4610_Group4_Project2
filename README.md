@@ -28,6 +28,7 @@ It contains columns corresponding to the following items:
 - Total Renewable Energy Consumption
 - Total Primary Energy Consumption
 
+
 - Total Rows: 631
 
 ## Importance of Our Selected Data Set
